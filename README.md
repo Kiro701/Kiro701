@@ -19,7 +19,7 @@ I am passionate about computer science and development. I am the founder of **UN
 
 <div align="left">
 
-[![kiro701_'s Discord status](https://dsc-readme.tsuni.dev/api/user/902870493550485504?pronouns=Elle%2FShe&theme=dark&width=512&nameColor1=ffffff)](https://github.com/the-snesler/discord-github-preview)
+[![Discord Presence](https://lanyard.cnrad.dev/api/902870493550485504?theme=dark)](https://discord.com/users/902870493550485504)
 
 </div>
 
