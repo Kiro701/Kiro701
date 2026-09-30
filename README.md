@@ -17,13 +17,11 @@ I am passionate about computer science and development. I am the founder of **UN
 
 ## 💜 Discord
 
-<p align="left">
+<div align="left">
 
-<a href="https://discord.com/users/902870493550485504">
-<img src="https://lanyard.cnrad.dev/api/902870493550485504?theme=dark&bg=1c1917&borderRadius=10px&hideDiscrim=true&animated=true" alt="Discord Presence" />
-</a>
+<a href="https://discord.com/users/902870493550485504"> <img src="https://lanyard.cnrad.dev/api/902870493550485504?theme=dark&bg=1c1917&borderRadius=10px&animated=true&hideDiscrim=true&hideActivity=false&hideSpotify=false&hideTimestamp=false&showDisplayName=true" alt="Discord Presence" /> </a>
 
-</p>
+</div>
 
 > Your Discord status, current activity and other presence information are updated automatically.
 
@@ -158,4 +156,7 @@ I'm currently working on **[UnisCube](http://uniscube.fr)**, one of my main proj
 
 `Made with code, caffeine and questionable decisions.`
 
+</div>
+<div align="center">
+  <img height="20" src="https://komarev.com/ghpvc/?username=kiro701&color=blue&style=flat" alt="Profile Views" />
 </div>
