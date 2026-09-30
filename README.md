@@ -1,4 +1,6 @@
-## Hi there 👋
+## Salut 👋
+Moi c'est Yuna ( Kiro701 ), apprentie développeuse et fondatrice de UnisCube et de UNIS Studio.
+J'aime le développement informatique et créer des projets.
 
 <!--
 **Kiro701/Kiro701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
